@@ -1,4 +1,5 @@
 library(table1)
+library(ggplot2)
 
 #Base functions
 
